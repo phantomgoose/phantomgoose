@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I'm a generalist software engineer that is always learning new things! 🌱
 
